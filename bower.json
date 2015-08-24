@@ -1,0 +1,30 @@
+{
+    "name": "Project-OldEden",
+    "version": "0.0.0",
+    "homepage": "https://github.com/GaiusCoffee/Project-OldEden",
+    "authors": [
+        "Gaius-Coffee <gaius.coffee@gmail.com>"
+    ],
+    "description": "Choose Your Own Medieval Superheroes Adventure",
+    "main": "index.html",
+    "keywords": [
+        "game"
+    ],
+    "license": "No License",
+    "private": true,
+    "ignore": [
+        "**/.*",
+        "bower_components",
+        "test",
+        "tests"
+    ],
+    "dependencies": {
+        "jquery": "latest"
+    },
+    "install" : {
+        "path" : {
+            "css": "assets/css",
+            "js": "assets/js"
+        }
+    }
+}
