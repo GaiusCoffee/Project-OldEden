@@ -25,6 +25,11 @@
         "path" : {
             "css": "assets/css",
             "js": "assets/js"
+        },
+        "sources": {
+            "jquery": [
+                "bower_components/jquery/dist/jquery.min.js"
+            ]
         }
     }
 }
